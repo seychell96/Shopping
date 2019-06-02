@@ -1,0 +1,6 @@
+F:\李世龙-三级课题\购物网\Sqldbconn\bin\Release\Sqldbconn.dll
+F:\李世龙-三级课题\购物网\Sqldbconn\obj\Release\Sqldbconn.csprojResolveAssemblyReference.cache
+F:\李世龙-三级课题\购物网\Sqldbconn\obj\Release\Sqldbconn.dll
+C:\Users\qymua\Desktop\购物网\Sqldbconn\bin\Release\Sqldbconn.dll
+C:\Users\qymua\Desktop\购物网\Sqldbconn\obj\Release\Sqldbconn.csprojResolveAssemblyReference.cache
+C:\Users\qymua\Desktop\购物网\Sqldbconn\obj\Release\Sqldbconn.dll

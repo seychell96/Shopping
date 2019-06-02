@@ -1,0 +1,8 @@
+F:\李世龙-三级课题\购物网\Entity\bin\Release\Entity.dll
+F:\李世龙-三级课题\购物网\Entity\bin\Release\Sqldbconn.dll
+F:\李世龙-三级课题\购物网\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+F:\李世龙-三级课题\购物网\Entity\obj\Release\Entity.dll
+C:\Users\qymua\Desktop\购物网\Entity\bin\Release\Entity.dll
+C:\Users\qymua\Desktop\购物网\Entity\bin\Release\Sqldbconn.dll
+C:\Users\qymua\Desktop\购物网\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+C:\Users\qymua\Desktop\购物网\Entity\obj\Release\Entity.dll

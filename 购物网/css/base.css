@@ -1,0 +1,156 @@
+/*公共样式*/
+.w {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+blockquote,body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,hr,input,legend,li,ol,p,pre,td,textarea,th,ul {
+    margin:0;
+    padding:0;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.JScolor{
+    color: #ea6f5a !important;
+}
+button,input {
+    border: 0;
+    outline: none;
+}
+/*背景*/
+body{
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+
+}
+/*主体部分*/
+.z{
+    background:skyblue;
+    width: 600px;
+    height:650px;
+    margin-top: 85px;
+    margin-left:400px;
+    border-radius: 30px;
+
+}
+.a{
+    font-family:Lobster ;
+    text-align: center;
+    font-size:90px;
+    color:white;
+}
+.b{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    color:white;
+}
+.c{
+    width: 460px;
+    height:80px;
+    background-color: skyblue;
+    margin-left:55px;
+    margin-top:30px;
+    border-radius: 30px;
+
+}
+.e{
+    width: 490px;
+    height:40px ;
+    background-color:skyblue;
+    margin-top: 30px;
+    margin-left: 60px;
+    border-radius: 30px;
+
+}
+.f {
+    width: 170px;
+    height: 50px;
+    background-color:skyblue;
+
+    margin-left: 70px;
+    margin-top: 25px;
+    float: left;
+}
+.g{
+   text-align: center;
+    margin-top: 5px;
+}
+.h li{
+    display: inline;
+}
+.i{
+    width:85px;
+    height: 20px;
+    background-color:skyblue;
+    margin-right: 10px;
+    margin-top: 150px;
+}
+.h a{
+    color: royalblue;
+}
+.h a:hover{
+    color: aqua;
+}
+.l{
+    width: 1404px ;
+    height: 200px;
+    background-color: white;
+    margin-top: 100px;
+}
+/*底部*/
+.m{
+    width: 1404px;
+    height: 100px;
+    background-color: white;
+    border-top:1px solid white;
+    margin-top:90px;
+}
+.n{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin-left: 400px;
+}
+.n li{
+    display: inline;
+    background-color: white;
+}
+.n ul{
+    margin-top: 50px;
+}
+.n a:link{
+    color: black;
+}
+.n a:hover{
+    color: skyblue;
+}
+.o{
+    width:80px;
+    height: 20px;
+    background-color: white;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+    text-align: center;
+}
+.p{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 180px;
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid lightblue;
+
+}

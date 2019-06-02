@@ -1,0 +1,15 @@
+C:\Users\李\Desktop\tb0601955Web\Sqldbconn\bin\Debug\Sqldbconn.dll
+C:\Users\李\Desktop\tb0601955Web\Sqldbconn\bin\Debug\Sqldbconn.pdb
+C:\Users\李\Desktop\tb0601955Web\Sqldbconn\obj\Debug\Sqldbconn.csprojResolveAssemblyReference.cache
+C:\Users\李\Desktop\tb0601955Web\Sqldbconn\obj\Debug\Sqldbconn.dll
+C:\Users\李\Desktop\tb0601955Web\Sqldbconn\obj\Debug\Sqldbconn.pdb
+C:\Users\李\Desktop\购物网\Sqldbconn\bin\Debug\Sqldbconn.dll
+C:\Users\李\Desktop\购物网\Sqldbconn\bin\Debug\Sqldbconn.pdb
+C:\Users\李\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.csprojResolveAssemblyReference.cache
+C:\Users\李\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.dll
+C:\Users\李\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.pdb
+C:\Users\qymua\Desktop\购物网\Sqldbconn\bin\Debug\Sqldbconn.dll
+C:\Users\qymua\Desktop\购物网\Sqldbconn\bin\Debug\Sqldbconn.pdb
+C:\Users\qymua\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.csprojResolveAssemblyReference.cache
+C:\Users\qymua\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.dll
+C:\Users\qymua\Desktop\购物网\Sqldbconn\obj\Debug\Sqldbconn.pdb
