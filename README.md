@@ -1,5 +1,8 @@
 # Shopping
 ✔基于ASP.net 开发的简易购物网站
+## 环境
+- VS2015
+- SQL server 2016
 ## 商城首页
 ![首页效果图](https://www.github.com/Qymua/bookmaker-data/raw/master/Qymua/1559458929839.png)
 ## 购物车
